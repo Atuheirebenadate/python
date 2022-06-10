@@ -12,6 +12,7 @@ class Account:
         self.deposits =[]
         self.withdrawals = []
         self.transaction = 100
+        
 
 
     def deposit(self,amount):
